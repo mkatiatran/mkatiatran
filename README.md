@@ -95,12 +95,12 @@ Investigates machine unlearning using the Fisher Information Matrix to efficient
 
 ---
 
-## `$ ls ./skills`
+### `$ ls ./skills`
 
 ```text
 LANGUAGES
 ──────────────────────────────────────────────────────────────
-Python · SQL · JavaScript
+Python · SQL
 
 MACHINE LEARNING
 ──────────────────────────────────────────────────────────────
@@ -134,62 +134,6 @@ TOOLS & FRAMEWORKS
 ──────────────────────────────────────────────────────────────
 Jupyter · OpenAI API · Hugging Face
 ```
-
-
----
-
-## `$ ls ./research_interests`
-
-```text
-📁 machine-learning
-├── deep-learning
-├── generative-models
-├── neural-architectures
-└── efficient-inference
-
-📁 applied-ai
-├── healthcare
-├── biology
-├── document-intelligence
-└── computer-vision
-
-📁 responsible-ai
-├── reliability
-├── interpretability
-├── evaluation
-└── societal-impact
-```
-
----
-
-## `$ git log --oneline`
-
-```text
-→ researching emerging ML architectures
-→ building end-to-end ML systems
-→ reproducing ideas from recent papers
-→ experimenting with generative models
-→ applying AI to healthcare + biology
-→ learning something new every day
-```
-
----
-
-## `$ python -c "print(status)"`
-
-```text
-╭──────────────────────────────────────────────╮
-│                                              │
-│  STATUS                                      │
-│                                              │
-│  [●] Building ML systems                     │
-│  [●] Exploring new architectures             │
-│  [●] Reading research papers                 │
-│  [●] Turning ideas into experiments          │
-│                                              │
-╰──────────────────────────────────────────────╯
-```
-
 ---
 
 ## `$ cat education.md`
@@ -200,23 +144,3 @@ Jupyter · OpenAI API · Hugging Face
 M.S.  Artificial Intelligence    2026
 B.S.  Computer Science           2024
 ```
-
----
-
-## `$ echo $CONTACT`
-
-<p align="center">
-
-<a href="https://github.com/mkatiatran">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
-</a>
-
-</p>
-
-<p align="center">
-<i>Building things. Breaking things. Learning why.</i>
-</p>
