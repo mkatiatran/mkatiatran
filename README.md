@@ -1,15 +1,5 @@
-# `monique.tran`
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   $ whoami                                                   │
-│   monique                                                     │
-│                                                              │
-│   AI/ML Engineer  •  Data Scientist  •  AI Research          │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+> Hello, world!
+> I'm Monique.
 
 <p align="center">
   <a href="https://github.com/mkatiatran">
