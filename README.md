@@ -1,5 +1,5 @@
-> Hello, world!
-> I'm Monique.
+## Hello, world!
+## I'm Monique.
 
 <p align="center">
   <a href="https://github.com/mkatiatran">
