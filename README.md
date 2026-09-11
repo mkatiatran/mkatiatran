@@ -94,32 +94,46 @@ Investigates machine unlearning using the Fisher Information Matrix to efficient
 
 ---
 
-## `$ neofetch --skills`
+## `$ ls ./skills`
 
 ```text
-                    ╭──────────────────────────────╮
-                    │       MONIQUE.TRAN            │
-                    ╰──────────────────────────────╯
+LANGUAGES
+──────────────────────────────────────────────────────────────
+Python · SQL · JavaScript
 
-  ML / AI            Python       ████████████████████
-                     PyTorch      ███████████████████░
-                     TensorFlow   █████████████████░░░
-                     NLP          ███████████████████░
-                     Computer     ████████████████░░░░
-                     Vision
+MACHINE LEARNING
+──────────────────────────────────────────────────────────────
+PyTorch · TensorFlow · Keras · Scikit-learn
+XGBoost · CatBoost · Deep Learning · NLP
+Computer Vision · Generative AI · OCR
 
-  Engineering        FastAPI      █████████████████░░░
-                     SQL          ██████████████████░░
-                     Git          ████████████████████
-                     Azure        ███████████████░░░░░
-                     Snowflake    ████████████████░░░░
+ML SYSTEMS
+──────────────────────────────────────────────────────────────
+Model Evaluation · ML Monitoring · Model Serving
+Inference Optimization · Dynamic Routing · Online Learning
+Experimentation · Benchmarking · Simulation
 
-  Research            Generative Models
-                     Deep Learning
-                     ML Architectures
-                     Model Evaluation
-                     Responsible AI
+AI RESEARCH
+──────────────────────────────────────────────────────────────
+Neural Architectures · Transformers · State Space Models
+Sequence Modeling · Generative Models · Machine Unlearning
+Responsible AI · Interpretability · Model Reliability
+
+DATA & DOCUMENT AI
+──────────────────────────────────────────────────────────────
+Pandas · NumPy · Data Pipelines · Document Processing
+Information Extraction · PDF Processing · Feature Engineering
+
+ENGINEERING & INFRASTRUCTURE
+──────────────────────────────────────────────────────────────
+FastAPI · React · Git · Azure · Snowflake
+Docker · PyTest · YAML · REST APIs
+
+TOOLS & FRAMEWORKS
+──────────────────────────────────────────────────────────────
+Jupyter · OpenAI API · Hugging Face
 ```
+
 
 ---
 
