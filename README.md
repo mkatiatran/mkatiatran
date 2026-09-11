@@ -18,8 +18,8 @@ interests = {
     "ai_research": True,
     "generative_models": True,
     "emerging_architectures": True,
-    "healthcare_ai": True,
-    "ai_for_biology": True,
+    "deep_learning": True,
+    "NLP": True,
     "responsible_ai": True,
 }
 ```
