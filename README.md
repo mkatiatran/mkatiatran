@@ -1,6 +1,8 @@
-## Hello, world!
-## I'm Monique.
-
+╔══════════════════════════════════════════════════════════════╗ 
+║                                                              ║ 
+║ > Hello, world!                                              ║
+║ > I'm Monique!                                               ║ 
+║                                                              ║ ╚══════════════════════════════════════════════════════════════╝
 <p align="center">
   <a href="https://github.com/mkatiatran">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
