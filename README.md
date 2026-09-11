@@ -52,7 +52,6 @@ Exploring semantic monitoring and detecting meaningful changes in machine learni
 
 Exploring workload-aware inference, dynamic routing, heterogeneous compute, and the relationship between model architecture and serving efficiency.
 
-
 </td>
 </tr>
 
@@ -65,17 +64,19 @@ Exploring workload-aware inference, dynamic routing, heterogeneous compute, and 
 
 Experiments comparing modern architectures and investigating where newer approaches can outperform established designs.
 
-
 </td>
 
 <td width="50%">
 
-### AI × Biology
+### Malware Classification Research
 
-**AI for Science**
+**Machine Learning / Cybersecurity**
 
-Exploring applications of modern generative and predictive models to healthcare and biological problems.
+Research project applying machine learning to malware classification, exploring how learned representations can distinguish malicious software.
 
+<a href="https://github.com/mkatiatran/malware-classification-research">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github">
+</a>
 
 </td>
 </tr>
