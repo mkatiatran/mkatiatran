@@ -26,59 +26,70 @@ interests = {
 
 ---
 
-$ ./current_projects
+#### `$ ./current_projects`
 
-<table> <tr> <td width="50%">
+<table>
+<tr>
+<td width="50%">
 
-Inference-Mesh
+### [Inference-Mesh](https://github.com/mkatiatran/Inference-Mesh)
 
-ML Systems / Inference
+**ML Systems / Inference**
 
-Inference-Mesh explores workload-aware machine learning inference, focusing on how routing and resource allocation can adapt to changing workloads. The project investigates tradeoffs between latency, compute utilization, model selection, and inference cost across heterogeneous hardware. It treats inference as a systems-level optimization problem rather than simply a model-serving problem.
+Explores workload-aware inference through dynamic routing, resource allocation, and efficient serving across heterogeneous compute.
 
-<a href="https://github.com/mkatiatran/Inference-Mesh"> <img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github"> </a>
+<a href="https://github.com/mkatiatran/Inference-Mesh">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github">
+</a>
 
 </td>
 
 <td width="50%">
 
-Paper-Memory
+### [Paper-Memory](https://github.com/mkatiatran/Paper-Memory)
 
-AI Research / Machine Learning
+**AI Research / Machine Learning**
 
-Paper-Memory explores machine learning approaches for helping researchers organize, retrieve, and reason over scientific literature. The project experiments with modern neural architectures for representing and connecting information across research papers. The goal is to make large bodies of technical literature easier to navigate and turn into useful research knowledge.
+Explores modern ML architectures for organizing, retrieving, and reasoning over scientific literature.
 
-<a href="https://github.com/mkatiatran/Paper-Memory"> <img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github"> </a>
+<a href="https://github.com/mkatiatran/Paper-Memory">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github">
+</a>
 
-</td> </tr>
+</td>
+</tr>
 
 <tr>
-
 <td width="50%">
 
-Semantic-Canary
+### [Semantic-Canary](https://github.com/mkatiatran/Semantic-Canary)
 
-ML System Monitoring
+**ML System Monitoring**
 
-Semantic Canary explores how machine learning systems can be monitored for meaningful changes in model behavior rather than relying only on traditional statistical drift metrics. The project investigates semantic signals that can reveal changes in inputs, outputs, or model behavior that conventional monitoring may miss. The goal is to build a more meaningful layer of monitoring for modern AI systems operating in dynamic environments.
+Explores semantic monitoring methods for detecting meaningful changes in model behavior that traditional drift metrics may miss.
 
-<a href="https://github.com/mkatiatran/Semantic-Canary"> <img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github"> </a>
+<a href="https://github.com/mkatiatran/Semantic-Canary">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github">
+</a>
 
 </td>
 
 <td width="50%">
 
-Machine-Unlearning-Using-FIM
+### [Machine-Unlearning-Using-FIM](https://github.com/mkatiatran/Machine-Unlearning-Using-FIM)
 
-Machine Learning / Responsible AI
+**Machine Learning / Responsible AI**
 
-This project investigates machine unlearning using the Fisher Information Matrix (FIM) to identify and remove the influence of specific training data from a trained model. It explores whether parameter importance can be used to efficiently approximate the effects of retraining without requiring the model to be trained from scratch. The project examines machine unlearning as a potential approach for improving privacy, data control, and responsible model management.
+Investigates machine unlearning using the Fisher Information Matrix to efficiently remove the influence of specific training data from trained models.
 
-<a href="https://github.com/mkatiatran/Machine-Unlearning-Using-FIM"> <img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github"> </a>
+<a href="https://github.com/mkatiatran/Machine-Unlearning-Using-FIM">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github">
+</a>
 
 </td>
+</tr>
+</table>
 
-</tr> </table>
 
 
 ---
