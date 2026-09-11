@@ -52,6 +52,10 @@ Exploring semantic monitoring and detecting meaningful changes in machine learni
 
 Exploring workload-aware inference, dynamic routing, heterogeneous compute, and the relationship between model architecture and serving efficiency.
 
+<a href="https://github.com/mkatiatran/InferenceMesh">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github">
+</a>
+
 </td>
 </tr>
 
@@ -63,6 +67,10 @@ Exploring workload-aware inference, dynamic routing, heterogeneous compute, and 
 **Emerging Architectures**
 
 Experiments comparing modern architectures and investigating where newer approaches can outperform established designs.
+
+<a href="https://github.com/mkatiatran/ML-Architecture-Research">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github">
+</a>
 
 </td>
 
@@ -81,6 +89,7 @@ Research project applying machine learning to malware classification, exploring 
 </td>
 </tr>
 </table>
+
 
 ---
 
