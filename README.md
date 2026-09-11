@@ -32,13 +32,11 @@ interests = {
 <tr>
 <td width="50%">
 
-### 🧪 Semantic Canary
+### Semantic Canary
 
 **ML System Monitoring**
 
 Exploring semantic monitoring and detecting meaningful changes in machine learning systems.
-
-`Python` `ML` `Monitoring` `Research`
 
 <a href="https://github.com/mkatiatran/Semantic-Canary">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github">
@@ -48,13 +46,12 @@ Exploring semantic monitoring and detecting meaningful changes in machine learni
 
 <td width="50%">
 
-### ⚡ InferenceMesh
+### InferenceMesh
 
 **ML Systems / Inference**
 
 Exploring workload-aware inference, dynamic routing, heterogeneous compute, and the relationship between model architecture and serving efficiency.
 
-`Python` `Inference` `Systems` `LLMs`
 
 </td>
 </tr>
@@ -62,25 +59,23 @@ Exploring workload-aware inference, dynamic routing, heterogeneous compute, and 
 <tr>
 <td width="50%">
 
-### 🧠 ML Architecture Research
+### ML Architecture Research
 
 **Emerging Architectures**
 
 Experiments comparing modern architectures and investigating where newer approaches can outperform established designs.
 
-`PyTorch` `Deep Learning` `Research`
 
 </td>
 
 <td width="50%">
 
-### 🧬 AI × Biology
+### AI × Biology
 
 **AI for Science**
 
 Exploring applications of modern generative and predictive models to healthcare and biological problems.
 
-`Generative AI` `Biology` `Research`
 
 </td>
 </tr>
