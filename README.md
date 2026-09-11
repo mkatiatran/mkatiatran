@@ -4,31 +4,13 @@
 │   > Hello, world!                                            │
 │   > I'm Monique!                                             │
 │                                                              │
-│   AI/ML Engineer  •  Data Scientist  •  AI Research          │
-│                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
-
-<p align="center">
-  <a href="https://github.com/mkatiatran">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-</p>
-
 ---
 
 ## `$ cat about_me.txt`
 
-Hi! I'm **Monique**, an AI/ML engineer and data scientist interested in building machine learning systems that solve meaningful real-world problems.
-
-I studied **Computer Science and Artificial Intelligence at UT Austin**, where I've worked across deep learning, NLP, generative models, computer vision, and machine learning.
-
-I'm especially interested in what happens at the intersection of **research and engineering** — taking interesting ideas from papers and turning them into systems that are actually useful, reliable, and scalable.
+I'm a data scientist interested in building machine learning systems that solve meaningful real-world problems. I studied **Computer Science and Artificial Intelligence at UT Austin**, where I've worked across deep learning, NLP, generative models, computer vision, and machine learning. I'm especially interested in what happens at the intersection of **research and engineering** — taking interesting ideas from papers and turning them into systems that are actually useful, reliable, and scalable.
 
 ```python
 interests = {
