@@ -10,9 +10,7 @@
 ---
 
 #### `$ cat about_me.txt`
-```text
 I'm a data scientist interested in building machine learning systems that solve meaningful real-world problems. I studied Computer Science and Artificial Intelligence at UT Austin, where I've worked across deep learning, NLP, generative models, computer vision, and machine learning. I'm especially interested in what happens at the intersection of research and engineering — taking interesting ideas from papers and turning them into systems that are actually useful, reliable, and scalable.
-```
 
 ```python
 interests = {
