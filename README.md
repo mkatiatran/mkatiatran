@@ -101,41 +101,15 @@ LANGUAGES
 ──────────────────────────────────────────────────────────────
 Python · SQL
 
-MACHINE LEARNING
+TOOLS
 ──────────────────────────────────────────────────────────────
-PyTorch · TensorFlow · Keras · Scikit-learn
-XGBoost · CatBoost · Deep Learning · NLP
-Computer Vision · Generative AI · OCR
-
-ML SYSTEMS
-──────────────────────────────────────────────────────────────
-Model Evaluation · ML Monitoring · Model Serving
-Inference Optimization · Dynamic Routing · Online Learning
-Experimentation · Benchmarking · Simulation
-
-AI RESEARCH
-──────────────────────────────────────────────────────────────
-Neural Architectures · Transformers · State Space Models
-Sequence Modeling · Generative Models · Machine Unlearning
-Responsible AI · Interpretability · Model Reliability
-
-DATA & DOCUMENT AI
-──────────────────────────────────────────────────────────────
-Pandas · NumPy · Data Pipelines · Document Processing
-Information Extraction · PDF Processing · Feature Engineering
-
-ENGINEERING & INFRASTRUCTURE
-──────────────────────────────────────────────────────────────
-FastAPI · React · Git · Azure · Snowflake
-Docker · PyTest · YAML · REST APIs
-
-TOOLS & FRAMEWORKS
-──────────────────────────────────────────────────────────────
-Jupyter · OpenAI API · Hugging Face
+PyTorch · TensorFlow · Keras
+Pandas · NumPy · Git · Azure
+Snowflake
 ```
 ---
 
-## `$ cat education.md`
+#### `$ cat education.md`
 
 **The University of Texas at Austin**
 
